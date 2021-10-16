@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="voice_button">voice_button</string>
+    <string name="voice_output_text">I will love you to the very end in the beginning of all things</string>
+</resources>
